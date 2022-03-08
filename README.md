@@ -4,8 +4,7 @@ This repository contains wiki pages for bioinformatics groups from LCR BCCRC Ste
 
 ## Group meeting
 
-- meeting schedule
-    We have bi-weekly bioinformatics meetings, see the link below for the presentation schedule:
+- We have **bi-weekly bioinformatics meetings**, see the link below for the presentation schedule:
       https://docs.google.com/spreadsheets/d/1DJitv8xvtJZtJjWu3ntLSFIDZOmILv87mm7csR3X9ts/edit?usp=sharing
 - meeting materials
 
